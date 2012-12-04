@@ -2,7 +2,6 @@ Example:
 
 <?php
 
-include('wiringpi.php');
 include('wiring-lcd.php');
 
 $LCD = new LCD();
